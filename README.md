@@ -1,2 +1,2 @@
-# -tica
+# Ótica
 Projeto Ótica
